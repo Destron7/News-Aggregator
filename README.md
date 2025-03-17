@@ -30,3 +30,6 @@ cd newsaggregator
 python manage.py migrate
 python manage.py runserver
 ```
+
+### Ongoing Developments
+1. Adding News Sentiment Analysis.
